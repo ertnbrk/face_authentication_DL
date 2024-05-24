@@ -3,6 +3,8 @@
 Bu proje, yüz tanıma için siyam ağları kullanarak bir model geliştirmeyi amaçlar. Proje, veri toplama, veri ön işleme, model oluşturma, eğitim, değerlendirme ve gerçek zamanlı test adımlarını içerir.
 
 ## Kullanım
+**Veri Setini Edinme:** https://vis-www.cs.umass.edu/lfw/
+
 **Veri Toplama:** Veri toplama işlemi için collect_data fonksiyonunu kullanabilirsiniz. Bu fonksiyon, kameradan alınan görüntüleri pozitif, negatif ve referans (anchor) olarak sınıflandırır ve ilgili klasörlere kaydeder. Tuş atamaları şu şekildedir:
 
 >- 'a' tuşu: Referans (anchor) görüntüyü kaydetmek için kullanılır.
